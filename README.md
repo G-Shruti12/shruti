@@ -34,5 +34,5 @@
     <h1>Welcome to My Project 🚀</h1>
     <button class="btn">Click Me!</button>
 </body>
-</html>```
+</html>
 click here to view https://g-shruti12.github.io/shruti/
