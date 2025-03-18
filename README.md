@@ -1,4 +1,6 @@
 # TRIAL FILE
+## 🌍 Live Demo  
+[Click here to view the page](https://g-shruti12.github.io/shruti/)  
 ## DESCRIPTION
 - A brief overview  of the project and what it does.
 ```<!DOCTYPE html>
@@ -35,4 +37,4 @@
     <button class="btn">Click Me!</button>
 </body>
 </html>
-click here to view https://g-shruti12.github.io/shruti/
+
