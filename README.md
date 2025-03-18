@@ -35,4 +35,4 @@
     <button class="btn">Click Me!</button>
 </body>
 </html>```
-- [click here to view the page] (https://g-shruti12.github.io/shruti/)
+click here to view https://g-shruti12.github.io/shruti/
