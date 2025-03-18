@@ -1,7 +1,7 @@
 # TRIAL FILE
 ## DESCRIPTION
 - A brief overview  of the project and what it does.
- <!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -34,4 +34,4 @@
     <h1>Welcome to My Project 🚀</h1>
     <button class="btn">Click Me!</button>
 </body>
-</html>
+</html>```
